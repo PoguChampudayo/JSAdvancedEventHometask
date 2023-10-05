@@ -1,0 +1,22 @@
+body {
+    color: #999;
+}
+
+.rowTable {
+  width: 488px;
+  display: flex;
+}
+
+.cellTable {
+  display: block;
+  width: 120px;
+  height: 120px;
+  background-color: lightgray;
+  border: solid 1px black;
+}
+
+.goblin {
+    width: 120px; 
+    height: 120px; 
+    background-image: url("../img/goblin.png")
+}
