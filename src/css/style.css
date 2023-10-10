@@ -18,5 +18,19 @@ body {
 .goblin {
     width: 120px; 
     height: 120px; 
-    background-image: url("../img/goblin.png")
+    background-image: url("../img/goblin.png");
+}
+
+.beginButton {
+  margin-top: 20px;
+  margin-left: 183px;
+  width: 120px; 
+  height: 40px; 
+  border: solid 1px brown;
+  border-radius: 5px;
+  background-color: red;
+}
+
+.hidden {
+  display: none;
 }
